@@ -39,6 +39,18 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
+    "Tennis Club": {
+        "description": "Practice tennis techniques, strategy, and competitive play",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Swimming Team": {
+        "description": "Build swimming skills, endurance, and teamwork in the pool",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
     "Soccer Team": {
         "description": "Practice teamwork and compete in soccer matches",
         "schedule": "Wednesdays and Fridays, 4:00 PM - 5:30 PM",
@@ -63,10 +75,34 @@ activities = {
         "max_participants": 16,
         "participants": []
     },
+    "Creative Writing Club": {
+        "description": "Develop storytelling skills through poetry, fiction, and creative writing",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Music Ensemble": {
+        "description": "Learn ensemble performance, musical expression, and collaboration",
+        "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
+        "max_participants":  twenty,
+        "participants": []
+    },
     "Science Olympiad": {
         "description": "Solve STEM challenges and prepare for science competitions",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 14,
+        "participants": []
+    },
+    "Book Club": {
+        "description": "Read, discuss, and analyze literature from diverse perspectives",
+        "schedule": "Fridays, 3:30 PM - 4:30 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Computer Science Club": {
+        "description": "Explore algorithms, coding projects, and computer science concepts",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
         "participants": []
     },
     "Debate Club": {
