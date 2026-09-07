@@ -74,6 +74,42 @@ activities = {
         "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
         "max_participants": 12,
         "participants": []
+    },
+    "Track and Field": {
+        "description": "Train for sprinting, jumping, and distance events in a competitive environment",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 25,
+        "participants": []
+    },
+    "Volleyball Team": {
+        "description": "Develop serving, passing, and teamwork skills through practice and matches",
+        "schedule": "Thursdays, 3:30 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Ceramics Club": {
+        "description": "Explore clay sculpting, pottery techniques, and creative design",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": []
+    },
+    "Photography Club": {
+        "description": "Learn camera techniques, composition, and digital editing skills",
+        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Mathletes": {
+        "description": "Solve challenging math problems and compete in academic contests",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Robotics Club": {
+        "description": "Design, build, and program robots for STEM challenges and competitions",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": []
     }
 }
 
